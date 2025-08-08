@@ -35,7 +35,7 @@
   <div class="section">
     <h2>📸 Screenshots</h2>
     <p>Add your screenshots below by replacing these placeholder images.</p>
-    <img class="screenshot" src="screenshots/1.png" alt="Password Prompt Screenshot" />
+    <img class="screenshot" src="1.png" alt="Password Prompt Screenshot" />
     
   </div>
 
