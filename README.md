@@ -35,13 +35,13 @@
   <div class="section">
     <h2>📸 Screenshots</h2>
     <p>Add your screenshots below by replacing these placeholder images.</p>
-    <img class="screenshot" src="1.png" alt="Password Prompt Screenshot" />
+    <img class="screenshot" src="1.jpg" alt="Password Prompt Screenshot" />
     
   </div>
 
   <div class="section">
     <h2> Installation & Usage</h2>
-    <pre><code>git clone https://github.com/yourusername/web-demo-crack.git
+    <pre><code>git clone https
 cd web-demo-crack
 
 python main.py</code></pre>
