@@ -14,62 +14,7 @@
       padding: 20px;
     }
 
-    h1, h2, h3 {
-      color: #00ffd5;
-      border-left: 6px solid #00ffd5;
-      padding-left: 12px;
-      margin-top: 40px;
-    }
 
-    code, pre {
-      background: #1a1a1a;
-      padding: 10px;
-      border-radius: 6px;
-      color: #00ff88;
-      display: block;
-      overflow-x: auto;
-    }
-
-    .section {
-      margin-bottom: 40px;
-    }
-
-    .screenshot {
-      border: 2px solid #00ffd5;
-      border-radius: 10px;
-      margin: 10px 0;
-      width: 100%;
-      max-width: 600px;
-    }
-
-    a {
-      color: #00ffe1;
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-
-    .info {
-      background: #191919;
-      padding: 15px;
-      border-left: 5px solid #ff006e;
-      margin: 20px 0;
-      font-style: italic;
-    }
-
-    ul {
-      line-height: 1.8;
-    }
-
-    hr {
-      border: none;
-      height: 1px;
-      background: #333;
-      margin: 30px 0;
-    }
-  </style>
 </head>
 <body>
 
@@ -77,30 +22,28 @@
   <p>A powerful Python-based website cloner developed by <strong>Shawon Islam Saim</strong>, Team: <em>Bangladesh Cyber Squad (BCS TEAM)</em></p>
 
   <div class="section">
-    <h2>🔥 Features</h2>
+    <h2> Features</h2>
     <ul>
-      <li>🔐 Password-protected access</li>
-      <li>🌐 Clone full websites with resources</li>
-      <li>📦 Save and zip downloaded site</li>
-      <li>💻 Run on localhost (port 8000)</li>
-      <li>🎨 Colorful CLI interface with pyfiglet + colorama</li>
+      <li> Password-protected access</li>
+      <li> Clone full websites with resources</li>
+      <li> Save and zip downloaded site</li>
+      <li> Run on localhost (port 8000)</li>
+      <li> Colorful CLI interface with pyfiglet + colorama</li>
     </ul>
   </div>
 
   <div class="section">
     <h2>📸 Screenshots</h2>
     <p>Add your screenshots below by replacing these placeholder images.</p>
-    <img class="screenshot" src="screenshots/password_prompt.png" alt="Password Prompt Screenshot" />
-    <img class="screenshot" src="screenshots/cloning_process.png" alt="Cloning in Progress" />
-    <img class="screenshot" src="screenshots/localhost_preview.png" alt="Localhost Preview" />
+    <img class="screenshot" src="screenshots/1.png" alt="Password Prompt Screenshot" />
+    
   </div>
 
   <div class="section">
-    <h2>🛠️ Installation & Usage</h2>
+    <h2> Installation & Usage</h2>
     <pre><code>git clone https://github.com/yourusername/web-demo-crack.git
 cd web-demo-crack
-pip install -r requirements.txt
-cythonize -i web.py
+
 python main.py</code></pre>
   </div>
 
@@ -115,14 +58,14 @@ python main.py</code></pre>
 ├── main.py
 ├── web.cpython-312.so
 ├── screenshots/
-│   ├── password_prompt.png
-│   ├── cloning_process.png
-│   └── localhost_preview.png
+│ 
+│   ├── 1.png
+│   
 └── index.html</code></pre>
   </div>
 
   <div class="section">
-    <h2>🧠 Author Info</h2>
+    <h2> Author Info</h2>
     <ul>
       <li><strong>Name:</strong> Shawon Islam Saim</li>
       <li><strong>Team:</strong> Bangladesh Cyber Squad (BCS TEAM)</li>
