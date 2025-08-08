@@ -1,0 +1,4 @@
+import web
+
+
+web.main()
