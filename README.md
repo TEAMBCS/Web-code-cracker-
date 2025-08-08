@@ -34,15 +34,15 @@
 
   <div class="section">
     <h2>📸 Screenshots</h2>
-    <p>Add your screenshots below by replacing these placeholder images.</p>
+    <p>**Free Palestine**</p>
     <img class="screenshot" src="1.jpg" alt="Password Prompt Screenshot" />
     
   </div>
 
   <div class="section">
     <h2> Installation & Usage</h2>
-    <pre><code>git clone https
-cd web-demo-crack
+    <pre><code>git clone https://github.com/TEAMBCS/Web-code-cracker-.git
+cd Web-code-cracker-
 
 python main.py</code></pre>
   </div>
